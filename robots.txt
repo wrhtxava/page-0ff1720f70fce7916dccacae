@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.kwgdl.cn/sitemap.xml
